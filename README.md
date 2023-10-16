@@ -1,5 +1,5 @@
-# Game_Project-Mario_Clone
-Created a Mario Clone using P5.js
+# Javascript Game Project - Mario Clone
+Created a Mario game clone using P5.js
 
 ## [Instructions]
 Install P5 framework in your IDE(Visual Studio Code, etc..) in order for it to run
